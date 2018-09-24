@@ -1,11 +1,13 @@
-Release Pipeline for Microservices
+# Release Pipeline for Microservices
 
-Abstract
-Setup Steps
+In this interactive workshop, you will learn how to achieve faster release cycles for your microservices using CI/CD approach. You will create a release pipeline that is automated and highly reliable, so that the risks of deploying updates are minimized. You will utilize open source tools along with declarative pipeline and shared libraries provided by Jenkins.
 
-Get the environment from this link: https://assignworkspace.herokuapp.com/
-Enter your email address and click on ‘Create Workspace’ 
-You should see links similar to the ones shown below
+## Setup Steps
+
+**Step 1**:
+
+Get the workspace from this link: https://assignworkspace.herokuapp.com/  
+  Enter your email address and click on ‘Create Workspace’ . You should see links similar to the ones shown below
 
 
 
